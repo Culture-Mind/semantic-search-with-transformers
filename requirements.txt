@@ -1,1 +1,5 @@
 faiss-gpu
+scikit-learn
+pandas
+sentence_transformers
+pickle
